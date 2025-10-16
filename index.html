@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tomicheck</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="video-background">
+  <video autoplay loop muted playsinline>
+    <source src="image/background.mp4" type="video/mp4">
+  </video>
+</div>
+
+<div class="flip-card" id="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <h3 class="text-front">Click Me)</h3>
+    </div>
+
+    <div class="flip-card-back">
+      <input type="range" id="volume-slider" min="0" max="1" step="0.01" value="0.5">
+      <img src="image/logo.jpg" class="image-backed" alt="">
+      <div class="wave-container">
+  <h1 class="wave-text">LORI4</h1>
+  <p class="subtext">Frontend Developer specializing in Java, HTML, and CSS. Passionate about creating clean, responsive, and efficient user interfaces.</p>
+</div>
+      <div class="icon-row">
+        <a href="https://t.me/Cryptomanky1234" target="_blank"><img src="image/telegram.webp" alt=""></a>
+        <a href="https://github.com/anbriy1" target="_blank"><img src="image/GitHub.png" alt=""></a>
+        <a href="https://discord.gg/yourlink" target="_blank"><img src="image/discord.webp" alt=""></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<audio id="background-music" loop>
+  <source src="music/music.mp3" type="audio/mp3">
+</audio>
+
+<script src="script.js"></script>
+</body>
+</html>
