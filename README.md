@@ -1,15 +1,15 @@
-Project Purpose (Goals)
+Usage
 
-The primary goal of portfolio-cards is to provide a lightweight, visually engaging portfolio template for developers who want to showcase their skills, projects, and contact info in a creative yet minimal way.
+Open index.html in your browser.
 
-Key objectives include:
+Click the card to see the flip animation and enjoy the music.
 
-Delivering an interactive experience: a flip card animation that responds to user clicks.
+Explore the elegant gradient design and smooth transitions.
 
-Incorporating subtle audio feedback: a soft music effect that enhances the interaction.
+Features
 
-Using modern design aesthetics: gradient backgrounds, smooth transitions, clear typography.
-
-Keeping the architecture simple and accessible: built purely with HTML, CSS, and JavaScript, with no heavy dependencies.
-
-Ensuring responsiveness and cross-browser compatibility, so it looks and works well on desktops, tablets, and phones.
+✨ Flip Card Animation – A stylish 3D card flip effect on click.
+🎵 Background Music – Plays a soft sound when interacting with the card.
+🌈 Gradient Aesthetics – Beautiful color transitions for a modern look.
+💻 Lightweight Design – Built with pure HTML, CSS, and JavaScript.
+⚡ Fast & Responsive – Loads instantly and works across all browsers.
